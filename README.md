@@ -15,7 +15,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior dos anos de 2022 e 2023, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Comexstat) que foram tratados em python. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional.
+O objetivo deste projeto é desenvolver uma plataforma de BI que permita visualizar informações sobre o desempenho dos municípios do Estado de São Paulo no comércio exterior dos anos de 2023 e 2024, com base nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Comexstat) que foram tratados em python. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional.
 
 
 # Equipe
