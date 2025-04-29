@@ -59,9 +59,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 - [x] Identifique os elementos principais;
 - [x] Esboce o layout;
 - [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Finalize e aprovação.
+- [X] Teste e revise;
+- [X] Documente instruções de uso;
+- [X] Finalize e aprovação.
 
 ## Sprint 2
 - [ ] Documento passo a passo;
